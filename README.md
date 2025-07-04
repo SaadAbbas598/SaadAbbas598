@@ -14,16 +14,6 @@ A 🎓 Computer Science undergraduate at **UET Lahore**, . I'm a passionate **fu
 
 🤝 Project Collaboration & Management using Git, GitHub, and **Agile practices**
 
-**🌟 Key Highlights**
-
-🧠 Developed a Smart Quest System – an intelligent student-faculty communication platform
-
-📊 Created dynamic admin dashboards with analytics, charts, and role-based access
-
-🌐 Deployed multiple production-grade applications with scalable architecture
-
-📜 Earned certifications in Python Programming and Project Management from Coursera
-
 **💡 Mindset**
 
 I’m a lifelong learner and problem-solver, always exploring new tools, patterns, and technologies. I love building things that create value and make a difference.
@@ -31,9 +21,6 @@ I’m a lifelong learner and problem-solver, always exploring new tools, pattern
 **📫 Let’s Connect!**
 
 Feel free to explore my repositories or reach out — I'm always open to collaborations, learning opportunities, or just a good tech talk! 👇
-
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saad__rahi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/saad-abbas-722b08345) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Saadrahi8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamsaadabbas@gmail.cm) 
