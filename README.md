@@ -14,16 +14,6 @@ A 🎓 Computer Science undergraduate at **UET Lahore**, . I'm a passionate **fu
 
 🤝 Project Collaboration & Management using Git, GitHub, and **Agile practices**
 
-**🛠️ Tech Toolbox**
-
-Languages: **JavaScript ⚙️** · Python 🐍 · SQL 🗂 · C++ 💡
-
-Frameworks/Libraries: **React ⚛️** · Express ⚡ · Django 🌐 · Framer Motion 🎞️ · Chart.js 📊
-
-Databases: **MongoDB 🍃** · MySQL 🐬 · SQLite 📁
-
-Tools: Git 🔧 · GitHub 🐙 · Vercel 🚀 · Netlify 🌍 · Firebase 🔥 · Postman 📮
-
 **🌟 Key Highlights**
 
 🧠 Developed a Smart Quest System – an intelligent student-faculty communication platform
